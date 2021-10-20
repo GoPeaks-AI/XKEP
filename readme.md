@@ -1,6 +1,6 @@
 # <center>Expert Knowledge Exchange Platform</center> 
 #### <center>Victor Zitian Chen</center>
-The **<font color='red'>eXpert Knowledge Exchange Platform (XKEP)</font>** is an interface that connects knowledge **Teachers** and knowledge **Learners** with a cumulative knowledgebase, including both Expert Knowledge and empirical evidence.User will interact with **XKEP** through Python Jupyter Notebook by identifying him/herself as a **Knowledge Teacher** or **Knowledge Learner** first, then add, modify, and query **knowledge** from the **Knowledgebase**.
+The **<font color='red'>eXpert Knowledge Exchange Platform (XKEP)</font>** is an interface that connects **knowledge Teachers** and **knowledge Learners** with a cloud-based cumulative **Knowledgebase**. User will interact with **XKEP** through a local command line by identifying him/herself as a **Knowledge Teacher** or **Knowledge Learner**, then add, modify, and query knowledge from the **Knowledgebase**.
 
 ![XKEP](https://user-images.githubusercontent.com/89408945/138008436-d4b40442-f38e-425b-bb38-af77e28e263d.jpg)
 
