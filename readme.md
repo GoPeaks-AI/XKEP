@@ -10,6 +10,7 @@ The **<font color='red'>eXpert Knowledge Exchange Platform (XKEP)</font>** is an
 ![demo_step1](https://user-images.githubusercontent.com/59463770/138016499-68748e8d-74e1-4607-bba8-0644317af13d.gif)
 
 **Teach something to or learn something from the Knowledgebase**
+![demo_step2](https://user-images.githubusercontent.com/59463770/138017099-3582c3b7-90a1-4b8b-b343-9370033d7a14.gif)
 
 Specifically, it has six classes (objectives), as illustrated in Figure above.
 
