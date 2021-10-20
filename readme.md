@@ -4,6 +4,13 @@ The **<font color='red'>eXpert Knowledge Exchange Platform (XKEP)</font>** is an
 
 ![XKEP](https://user-images.githubusercontent.com/89408945/138008436-d4b40442-f38e-425b-bb38-af77e28e263d.jpg)
 
+## User Demo
+
+**Load a Knowledgebase on the cloud**
+![demo_step1](https://user-images.githubusercontent.com/59463770/138016499-68748e8d-74e1-4607-bba8-0644317af13d.gif)
+
+**Teach something to or learn something from the Knowledgebase**
+
 Specifically, it has six classes (objectives), as illustrated in Figure above.
 
 ## <center>1.	Knowledgebase </center>
