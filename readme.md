@@ -12,6 +12,12 @@ The **<font color='red'>eXpert Knowledge Exchange Platform (XKEP)</font>** is an
 **Teach something to or learn something from the Knowledgebase**
 ![demo_step2](https://user-images.githubusercontent.com/59463770/138017099-3582c3b7-90a1-4b8b-b343-9370033d7a14.gif)
 
+**Two use cases: drawing Causal Diagrams with confounders and/or instrumental variables based on domain expertise**
+
+![demo_causaldiagram_display1_confounders](https://user-images.githubusercontent.com/59463770/138895765-4cf90e0e-411e-406b-8a68-5e42eeb5dd1d.gif)
+
+![demo_causaldiagram_display2_instrumentalvariables](https://user-images.githubusercontent.com/59463770/138895751-07640e00-b43a-4b14-939d-ec4d1be71268.gif)
+
 Specifically, it has six classes (objectives), as illustrated in Figure above.
 
 ## <center>1.	Knowledgebase </center>
