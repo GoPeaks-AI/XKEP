@@ -25,7 +25,7 @@ Knowledgebase is a container to host Knowledge (including nodes, links, and thei
 It is connected with neo4j AuraDB API services to access cloud space and knowledge graph data.
 The user will be asked to provide a user ID to connect to the API services.
 
-![neo4j-aura-graph](https://dist.neo4j.com/wp-content/uploads/20191105083257/neo4j-aura-graph.jpg)
+![demo_step1](https://user-images.githubusercontent.com/59463770/138016499-68748e8d-74e1-4607-bba8-0644317af13d.gif)
 
 Functions:
 
